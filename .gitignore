@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# VS Code settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# pip cache
+pip-wheel-metadata/
+*.whl
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Test and coverage reports
+.coverage
+coverage.xml
+htmlcov/
+.tox/
+.nox/
+.cache/
+
+# MyPy
+.mypy_cache/
+
+# Pyre type checker
+.pyre/
+
+# Data folders (e.g., datasets, logs, etc.)
+data/
+logs/
+*.log
+
+# Secrets
+.env
+*.env
+.env.*
+
+# SQLite or other local DBs
+*.sqlite3
+*.db
+
+# Mac/Windows specific
+.DS_Store
+Thumbs.db
